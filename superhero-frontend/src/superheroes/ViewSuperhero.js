@@ -10,7 +10,7 @@ const ViewSuperhero = () => {
         nickname: '',
         superpowers: [],  // This is an array with one element
         telephoneNumber: '',
-        dateOfBirth: '1997-07-07',
+        dateOfBirth: '2050-07-07',
         experiencePoints: 0,
         hasSecretIdentity: false,
         superheroRevenue: 0.00,

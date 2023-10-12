@@ -11,7 +11,7 @@ const EditSuperhero = () => {
     nickname: "",
     superpowers: [{ superpowerName: "" }],
     telephoneNumber: "",
-    dateOfBirth: "1997-07-07",
+    dateOfBirth: "2010-07-07",
     experiencePoints: 0,
     hasSecretIdentity: false,
     superheroRevenue: 0.0,

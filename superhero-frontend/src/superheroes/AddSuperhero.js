@@ -11,7 +11,7 @@ const AddSuperhero = () => {
     nickname: "",
     superpowers: [{ superpowerName: "" }], // Array of objects with a "superpowerName" property
     telephoneNumber: "",
-    dateOfBirth: "1997-07-07",
+    dateOfBirth: "1920-07-07",
     experiencePoints: 0,
     hasSecretIdentity: false,
     superheroRevenue: 0.0,
